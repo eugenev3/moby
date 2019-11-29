@@ -1,2 +1,2 @@
 # moby
-Google Firebase web project
+This is a new Google Firebase web project
